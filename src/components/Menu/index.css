@@ -1,0 +1,35 @@
+/* .menu{
+    display: initial;
+    font-family: roboto;
+} */
+
+.timemania{
+    color:#00ff48;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.mega{
+    color:#209869;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.quina{
+    color:#260085;
+    padding: 5px;
+    margin: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.ativo{
+    color:#aaa;
+    pointer-events: none;
+    text-decoration: none;
+    font-size: 20px;
+}
